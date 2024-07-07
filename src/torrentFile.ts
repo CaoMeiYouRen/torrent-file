@@ -1,6 +1,6 @@
 import { join, sep } from 'node:path';
 
-import { sha1 } from 'crypto-hash';
+import { sha1 } from '@cao-mei-you-ren/crypto-hash';
 import { isUint8Array, uint8ArrayToHex, uint8ArrayToString } from 'uint8array-extras';
 
 import { decode, encode } from './bencode/index.js';
