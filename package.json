@@ -1,6 +1,6 @@
 {
   "name": "@cao-mei-you-ren/torrent-file",
-  "version": "0.0.0-placeholder",
+  "version": "1.0.0",
   "description": "Parse a torrent file (name, hash, files, pieces)",
   "author": "CaoMeiYouRen",
   "contributors": [
